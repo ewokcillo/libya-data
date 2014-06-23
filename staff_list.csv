@@ -1,26 +1,26 @@
-Name,ID#,Section
-ﻢﻨﻳﺭ ﺎﻠﺟﻮﻫﺮﻳ,900,Quality Control Archive Supervisor
-ﻮﻔﻳﺓ ﻥﺎﺼﻓ,901,Audit Clerk
-ﺄﻤﻴﻧﺓ ﺍﻷﺯﺮﻗ,902,Audit Clerk
-ﻊﺑﺩ ﺎﻠﺼﻣﺩ ﺎﻟﺬﻬﻴﺒﻳ,903,Audit Clerk
-ﺲﻋﺩ ﺎﻠﺑﺮﻜﻳ,904,Audit Clerk
-ﻡﺭﺍﺩ ﻕﺮﻣﺎﻧ,905,Audit Clerk
-ﺹﺎﻠﺣ ﺎﻠﺸﻠﺤﻳ,906,Audit Clerk
-ﻊﺑﺩ ﺎﻠﻐﻨﻳ ﺐﻌﺑﻮﻋ,907,Audit Supervisor
-ﻮﻓﺍﺀ ﺎﻠﺸﻴﺑﺎﻨﻳ,908,Clearance clerk
-ﺢﻣﺯﺓ  ﺎﻠﻌﻴﺳﺍﻮﻳ,909,Clearance clerk
-ﺈﺳﻼﻣ  ﺺﻧﻮﻳ,910,Clearance clerk
-ﺢﺳﺎﻧ ﺎﻠﺟﺎﻠﻳ,911,Clearance clerk
-ﻍﺍﺩﺓ ﺎﻠﻘﻋﻭﺩ,912,Clearance Supervisor
-ﻭﺪﻴﻋ ﻚﻌﺑﺍﺭ,913,Correction Supervisor
-ﺄﺳﺎﻣﺓ ﺪﻐﻴﻣ,914,Data Entry 1 Supervisor
-ﺎﻠﺗﻭﺎﺘﻳ ﺮﻤﺿﺎﻧ,915,Data Entry 2 Clerk
-ﺄﻨﺳ ﺎﻠﺳﺎﻋﺪﻳ ,916,Data Entry 2 Clerk
-ﺄﻨﺳ ﺐﺤﻴﺣ,917,Data Entry 2 Supervisor
-ﻡﺭﻭﺓ ﺮﻤﺿﺎﻧ,918,Database
-ﻢﺤﻣﺩ ﺎﻠﺤﺑﺎﺳ,919,Intake Clerk
-ﻪﻴﺜﻣ ﺎﻠﻄﺑﻮﻠﻳ,920,Intake Supervisor
-ﺎﺤﻣﺩ ﺎﻠﻔﻴﺗﻭﺮﻳ,921,Programmer
-MONA,922,SUPER ADMINISTRATOR
-AJAY,923,SUPER ADMINISTRATOR
-MUNIR,924,SUPER ADMINISTRATOR
+Name,ID#,Section,Admin
+ﻢﻨﻳﺭ ﺎﻠﺟﻮﻫﺮﻳ,900,Quality Control Archive Supervisor,No
+ﻮﻔﻳﺓ ﻥﺎﺼﻓ,901,Audit Clerk,No
+ﺄﻤﻴﻧﺓ ﺍﻷﺯﺮﻗ,902,Audit Clerk,No
+ﻊﺑﺩ ﺎﻠﺼﻣﺩ ﺎﻟﺬﻬﻴﺒﻳ,903,Audit Clerk,No
+ﺲﻋﺩ ﺎﻠﺑﺮﻜﻳ,904,Audit Clerk,No
+ﻡﺭﺍﺩ ﻕﺮﻣﺎﻧ,905,Audit Clerk,No
+ﺹﺎﻠﺣ ﺎﻠﺸﻠﺤﻳ,906,Audit Clerk,No
+ﻊﺑﺩ ﺎﻠﻐﻨﻳ ﺐﻌﺑﻮﻋ,907,Audit Supervisor,No
+ﻮﻓﺍﺀ ﺎﻠﺸﻴﺑﺎﻨﻳ,908,Clearance clerk,No
+ﺢﻣﺯﺓ  ﺎﻠﻌﻴﺳﺍﻮﻳ,909,Clearance clerk,No
+ﺈﺳﻼﻣ  ﺺﻧﻮﻳ,910,Clearance clerk,No
+ﺢﺳﺎﻧ ﺎﻠﺟﺎﻠﻳ,911,Clearance clerk,No
+ﻍﺍﺩﺓ ﺎﻠﻘﻋﻭﺩ,912,Clearance Supervisor,No
+ﻭﺪﻴﻋ ﻚﻌﺑﺍﺭ,913,Correction Supervisor,No
+ﺄﺳﺎﻣﺓ ﺪﻐﻴﻣ,914,Data Entry 1 Supervisor,No
+ﺎﻠﺗﻭﺎﺘﻳ ﺮﻤﺿﺎﻧ,915,Data Entry 2 Clerk,No
+ﺄﻨﺳ ﺎﻠﺳﺎﻋﺪﻳ ,916,Data Entry 2 Clerk,No
+ﺄﻨﺳ ﺐﺤﻴﺣ,917,Data Entry 2 Supervisor,No
+ﻡﺭﻭﺓ ﺮﻤﺿﺎﻧ,918,Database,No
+ﻢﺤﻣﺩ ﺎﻠﺤﺑﺎﺳ,919,Intake Clerk,No
+ﻪﻴﺜﻣ ﺎﻠﻄﺑﻮﻠﻳ,920,Intake Supervisor,No
+ﺎﺤﻣﺩ ﺎﻠﻔﻴﺗﻭﺮﻳ,921,Programmer,No
+MONA,922,SUPER ADMINISTRATOR,Yes
+AJAY,923,SUPER ADMINISTRATOR,No
+MUNIR,924,SUPER ADMINISTRATOR,No
