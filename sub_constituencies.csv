@@ -70,6 +70,7 @@ SubCon #,Field Office,Races,Ballot Number - General,Ballot Number - Women,Number
 70,6,1,70,,1,,1,0,0,A4,,,A3,,,1,0,,
 71,6,1,71,,1,,1,0,0,A4,,,A3,,,1,0,,
 72,6,2,72,102,2,,2,0,0,A4,A4,,A3,A3,,2,0,,
+73,6,2,73,102,2,,2,0,0,A4,A4,,A3,A3,,2,0,,
 74,6,2,74,102,2,,2,0,0,A4,A4,,A3,A3,,2,0,,
 75,6,2,75,102,2,,2,0,0,A4,A4,,A3,A3,,2,0,,
 Special Voting,19,1,Matrix,Matrix,Matrix,,2,,0,,A4,,,,,,,,
